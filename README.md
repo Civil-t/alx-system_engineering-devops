@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-second shell project alx
+Repo for second shell project
